@@ -1,0 +1,24 @@
+# 环境变量（含密钥）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时生成
+ai_workspace/images/
+ai_workspace/screenshots/
+.ai_conversations.json
+.processed_sessions.txt
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log
+wechat_automation.log
+
+# UI 调试
+ui_dumps/
